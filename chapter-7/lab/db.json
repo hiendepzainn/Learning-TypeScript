@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dinh Xuan Hien",
+      "email": "hiencbnuet@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Dinh Xuan Sang",
+      "email": "sangdeptrai@gmail.com"
+    }
+  ]
+}
