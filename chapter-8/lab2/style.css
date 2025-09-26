@@ -1,0 +1,18 @@
+table {
+  width: 100%; /* Make table fill its container */
+  border-collapse: collapse; /* Collapse borders between cells */
+  margin-bottom: 1em; /* Add space below the table */
+}
+
+th,
+td {
+  padding: 12px 15px; /* Add internal spacing within cells */
+  text-align: left; /* Align text to the left */
+  border-bottom: 1px solid #ddd; /* Subtle bottom border for rows */
+}
+
+th {
+  background-color: #f2f2f2; /* Light background for table headers */
+  color: #333; /* Darker text color for headers */
+  font-weight: bold; /* Bold text for headers */
+}
